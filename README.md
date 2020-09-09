@@ -38,4 +38,4 @@ $ sudo docker exec -it <CONTAINER ID> python manage.py createsuperuser
 $ sudo docker exec -it <CONTAINER ID> python manage.py loaddata fixtures.json
 ```
 
-![example workflow name](https://github.com/actions/yamdb_final/workflows/.github/workflows/yamdb.yaml/badge.svg)
+![example workflow name](https://github.com/svvladimir-ru/yamdb_final/actions/yamdb_final/workflows/.github/workflows/yamdb.yaml/badge.svg)
