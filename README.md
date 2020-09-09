@@ -39,3 +39,4 @@ $ sudo docker exec -it <CONTAINER ID> python manage.py loaddata fixtures.json
 ```
 
 ![yamdb_final workflow](https://github.com/svvladimir-ru/yamdb_final/workflows/yamdb_final%20workflow/badge.svg)
+![yamdb_final workflow](https://github.com/svvladimir-ru/yamdb_final/workflows/yamdb_finalworkflow/badge.svg)
